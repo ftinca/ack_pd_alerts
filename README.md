@@ -13,5 +13,5 @@ pip install -r requirements.txt
 
 #### 4. Run the script
 ```
-python3 pg_
+python3 pg_ack.py
 ```
